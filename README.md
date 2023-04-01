@@ -52,4 +52,3 @@ Hi username! You've successfully authenticated, but GitHub does not provide shel
 ```
 
 Now you can securely connect to GitHub using SSH when cloning, pushing, and pulling repositories.
-# github_flow
